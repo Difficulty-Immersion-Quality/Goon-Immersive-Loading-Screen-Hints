@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="34"/>
+    <region id="Hints">
+        <node id="root">
+            <attribute id="HintDuration" type="float" value="5"/>
+            <children>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="78132664-62d9-4b51-a972-109b8f1ad693" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_CAM_HOME"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="e79feae3-9916-4876-b33d-f756342451df" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_CAM_ZOOM"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="d3e51c41-a6c3-42f3-a741-1bc9cbdbae80" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_CAM_ROTATE"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="6c2fb862-489e-4150-9596-8dc0b2d9d31a" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_CAM_ROTATE_CONT"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="3c46d604-6380-493a-bdf9-89fb32013052" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_ENVIRONMENT"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="577eafce-8c70-43c1-ba78-8c5d8440bd15" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_LORE_DEADTHREE"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="bf1ee36c-30ef-4a4e-aeb5-14c41d31f4c4" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_ASSAULT"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="8fc93388-faa6-4f97-8955-7ad50d9ab6f2" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_PARTY"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="53987a46-ac4a-4662-8b45-628cb438887d" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_SEARCH"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="37d0f03b-ae39-4384-b1d5-391b2e644455" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_PEOPLE"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                
+				
+				
+				<node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="69b30313-a8bf-46d6-a2c4-1c9127656854" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_STACKS"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="fcf5d1d3-3d8d-4ca3-9f13-10d6d81cb9a8" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_TRADE"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="8a4a33da-84ca-4856-bf0c-b44ba6965a6c" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_THEFT"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="a92e0a7f-aee5-42a3-8335-83c1efc32583" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_CTRL"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="109cf068-f8c1-4ee3-bd22-bae47f18b539" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_LORE_ZARIEL"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="dcd0aacf-b2d5-4283-9513-7f2c41b13a1e" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_EDGEPANNING"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="7e6a768f-ab42-4d31-b968-b400932a652f" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_FRIENDLYFIRE"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="34d06c2f-6b5d-4855-bdd9-9e79860a482f" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_DETECT_THOUGHTS"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="eac5fa97-dbf4-46f4-8f53-0016be791f0c" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_SCROLLS"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="22fe1322-7f27-4f31-b2ff-aa4ce7fa4a36" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_FOG"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+				
+				
+				<node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="d81d0b07-0523-4de4-8def-6b63b68d626a" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_ALLIANCE"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="28cef7d5-1646-4677-a1e5-4889334836b4" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_LORE_GITHREDDRAGONS"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="5296b658-4e4f-4bde-8ff8-36f20b3ffb13" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_MAPMARKER"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="15bc74a9-16db-493f-8963-75460391f299" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_TACTICALVIEW"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="78ec52c0-d041-400b-8110-6279e34ce039" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_BARTER"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="79f42e9a-4891-4eb9-8e62-57d1c04cd38a" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_LORE_TADPOLE"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="252ee6d6-4d26-4457-9962-6e8be0268500" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_OUTLINE"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="6c9f1047-fcab-473b-b8e1-8201d122c6bb" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_LORE_RIVERCHIONTHAR"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="94d0f352-4555-4174-995c-ec8a5dacac50" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_PICKPOCKET"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="99ef84b0-1e96-492f-8e3c-99082fa56051" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_VOLUME"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+				
+				
+				
+				<node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="c5daedab-4e5d-4228-a6c0-3ed8f2fb999d" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_LORE_SHAR_SELUNE"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="3b38d426-05df-4cb5-8a8c-1233e99c2287" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_WEB_SURFACE"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="f443e33e-af1f-4afd-8119-4c1197158780" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_SHOOT_HINGES_AND_LEVERS"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="81d147ea-7d5e-4274-88eb-897853e24514" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_DARKNESS_OBSCURES"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="1384c760-622b-4acc-9d36-a651f7924617" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_FIRE_KEEPS_DARKNESS_AWAY"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="3f3dea23-b427-4afd-8a2f-d0cb781b2caa" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_ENEMIES_IN_DARKNESS"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="fdeed173-d3f6-4365-85f0-a1c66b5bdf43" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_DARKVISION"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+				<node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="b61309e8-da94-4ea3-b732-ee76f3ed9622" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_QUICKSAVE"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+				<node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="4eba8b22-6ae2-48eb-a2e6-a09b87476f42" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_LOCK_HOTBAR"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+				<node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="76031d21-3dab-4796-8339-3129fdb078cf" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_CASTER_MELEE"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+				
+				
+				
+				<node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="53e271e7-755c-4967-882c-d24a4e5374f2" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_THROW_POTIONS"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+				<node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="f4dc92d4-298a-4053-a345-308483f97b81" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_TARGET_PORTRAIT"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+				<node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="3660fbc9-484d-4948-ad81-b264a5560d86" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_MOVE_OBJECTS_KBM"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+				<node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="1db5b5a9-9e19-4e2d-bc74-a6d5f7e1d95e" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_MOVE_OBJECTS_PAD"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="27c6285a-eb09-4233-af69-43ff88b50805" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_TACTICALVIEW_CONSOLE"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="162326b2-cc56-4806-b5d0-f309c1611518" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_HEARING_CRIMES"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+                <node id="Hint">
+                    <attribute id="Controller" type="bool" value="true"/>
+                    <attribute id="Description" type="TranslatedString" handle="8a88bd23-6558-427a-86df-1488b5339f3a" version="1"/>
+                    <attribute id="HintKey" type="FixedString" value="HINT_COMBAT_LOG"/>
+                    <attribute id="Internal" type="bool" value="false"/>
+                    <attribute id="Keyboard" type="bool" value="true"/>
+                    <attribute id="WikiPage" type="LSString" value=""/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
